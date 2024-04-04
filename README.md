@@ -2,4 +2,4 @@
 first repo
 <br>
 flutter Project
-owner Thrilling tech
+Owner Thrilling tech
